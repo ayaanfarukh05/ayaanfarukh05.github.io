@@ -12,4 +12,4 @@ Examples of how to use the project.
 
 ### Authors
 
-- Ayaan Farukh, Ilyas Hamidi, Ghufran Karim
+- Ayaan Farukh, Ghufran Karim
